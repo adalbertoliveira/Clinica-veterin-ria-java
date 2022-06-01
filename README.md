@@ -1,4 +1,4 @@
-# Clinica-veterin-ria-java
+# Clinica-veterinaria-java
 Pequeno projeto de clinica veterinária feito em java e mysql
 
 Este é um projeto antigo de um trabalho faculdade, meados de 2017. Resume-se a um CRUD com GUI do JOptionPane para montar algumas telas e realizar as operações básicas de cadastro e manipulação de dados no banco Mysql.
